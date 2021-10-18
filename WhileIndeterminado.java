@@ -16,7 +16,7 @@ public class WhileIndeterminado {
             if (nota <= 10 && nota >= 0) {
                 somaDasNotas += nota;
                 numeroDeNotas++;
-            }
+            } 
         }
         scanner.close();
         System.out.printf("A média é %.2f", somaDasNotas / numeroDeNotas);
