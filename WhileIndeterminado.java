@@ -1,5 +1,5 @@
 package controle;
-
+ 
 import java.util.Scanner;
 
 public class WhileIndeterminado {
