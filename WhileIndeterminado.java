@@ -9,7 +9,7 @@ public class WhileIndeterminado {
         double somaDasNotas = 0;
         double nota = 0;
         int numeroDeNotas = 0;
-
+ 
         while (nota != -1) {
             nota = scanner.nextDouble();
 
