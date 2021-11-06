@@ -1,5 +1,5 @@
 package fundamentos;
-  
+ 
 public class ObjetosPrimitivos{
     
     public static void main(String[] args){
