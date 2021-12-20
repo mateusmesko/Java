@@ -10,7 +10,7 @@ public class WhileDeterminado {
         double nota = 0;
 
         int indice = 0;
-        while(indice < 3){
+        while(indice < 3){ 
             nota = scanner.nextDouble();
             somaDasNotas += nota;
             indice++;
