@@ -20,3 +20,4 @@ public class WhileDeterminado {
         System.out.printf("A média é %,2f", somaDasNotas / 3);
     }
 }
+ 
