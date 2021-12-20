@@ -14,7 +14,7 @@ public class WhileDeterminado {
             nota = scanner.nextDouble();
             somaDasNotas += nota;
             indice++;
-        }
+        } 
 
         scanner.close();
         System.out.printf("A média é %,2f", somaDasNotas / 3);
