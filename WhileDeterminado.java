@@ -2,7 +2,7 @@ package controle;
 
 import java.util.Scanner;
 
-public class WhileDeterminado {
+public class WhileDeterminado { 
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
